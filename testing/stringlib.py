@@ -1,0 +1,4 @@
+def lettercount(myStr):
+    pass
+
+
